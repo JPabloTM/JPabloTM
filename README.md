@@ -1,6 +1,6 @@
 #
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Olá!+👋🏿;+me+chamo+Jonatahn+Pablo!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Olá!+👋🏿;+me+chamo+Jonathan+Pablo!;" />
 </h1>
 
 <img src="/Imagens e Gifs/Super Mario Code Gif.gif">        
@@ -17,6 +17,8 @@
 - 🎻 Músico, Violinista: Apesar de ouvir muito POP, Indie e PopRock, Escuto um pouco de tudo... _[nada de esteriótipos bobos de músico erudito]_. No meu entendimento a Música eleva e engrandece momentos e sentimentos, e pra cada um deles, há um tipo de musica apropriado.
 
 #
+
+
 
 <div align="center">
   <a href="https://github.com/JPabloTM">
@@ -46,8 +48,7 @@
   #
 
   <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🛸+-+---+-+--+💥+👾+👾+👾;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=🛸+-+---+-+--+💥+👾+👾+👾;" />
 </h1>
-
 
 </div>
