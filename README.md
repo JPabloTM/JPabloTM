@@ -1,16 +1,13 @@
-### Hi there 👋
+### 🐦‍⬛  Olá, eu sou Jonathan Pablo 👋 
 
-<!--
-**JPabloTM/JPabloTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                    
+                                                      🛸- --- - -- 💥👾👾👾
+  
+- 🌱 Eterno Padawan de C e Java   
+- 📫 Me contate no e-mail: jonathanpablotorres21@hotmail.com
+- 😄 Ele/Dele
+- 💭 Observador, o porque das certezas e dos atos me instiga.              _[Ainda me darei o privilegio de ler mais sobre Filosofia e Psicologia]_
 
-Here are some ideas to get you started:
+- ⚡ Apreciador de Jogos, Histórias de fantasia, Animes e de Vôlei.        _[Pra equilibrar e me tirar um pouco de casa, haha]_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎻 Músico, Violinista: Apesar de ouvir muito POP, Indie e PopRock, Escuto um pouco de tudo... _[nada de esteriótipos bobos de músico erudito]_. No meu entendimento a Música eleva e engrandece momentos e sentimentos, e pra cada um deles, há um tipo de musica apropriado.
