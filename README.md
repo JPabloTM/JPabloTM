@@ -9,7 +9,7 @@
 - 🌱 Eterno Padawan de C e Java   
 - 📫 Me contate no e-mail: jonathanpablotorres21@hotmail.com
 - 😄 Ele/Dele
-- 💭 Observador, o porque das certezas e dos atos me instiga.              _[Ainda me darei o privilegio de ler mais sobre Filosofia e Psicologia]_
+- 💭 Observador, o porque das certezas e dos atos me instiga.              _[Ainda me darei o privilégio de ler mais sobre Filosofia e Psicologia]_
 
 - ⚡ Apreciador de Jogos, Histórias de fantasia, Animes e de Vôlei.        _[Pra equilibrar e me tirar um pouco de casa, haha]_
 
