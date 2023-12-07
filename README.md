@@ -13,7 +13,7 @@
 
 - ⚡ Apreciador de Jogos, Histórias de fantasia, Animes e de Vôlei.        _[Pra equilibrar e me tirar um pouco de casa, haha]_
 
-- 🎻 Músico, Violinista: Apesar de ouvir muito POP, Indie e PopRock, Escuto um pouco de tudo... _[nada de esteriótipos bobos de músico erudito]_. No meu entendimento a Música eleva e engrandece momentos e sentimentos, e pra cada um deles, há um tipo de musica apropriado.
+- 🎻 Músico, Violinista: Apesar de ouvir muito POP, Indie e PopRock, escuto um pouco de tudo... _[nada de esteriótipos bobos de músico erudito]_. No meu entendimento a Música eleva e engrandece momentos e sentimentos, e pra cada um deles, há um tipo de musica apropriado.
 
 #
 
