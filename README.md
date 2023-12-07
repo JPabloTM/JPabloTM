@@ -7,7 +7,7 @@
                                     
 #   
                                           
-- 🌱 Estudando, 🥷🏿Genin de C, Java e Python
+- 🌱 Estudando, 🥷🏿Genin em C, Java e Python
 - 📫 Entre em contato no e-mail: jonathanpablotorres21@hotmail.com
 - 💭 Observador, costumo confrontar certezas e incertezas, o porque dos atos me instiga.          _[Ainda me darei o privilégio de ler e aprender mais sobre Filosofia e Psicologia]_
 
