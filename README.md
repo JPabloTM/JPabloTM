@@ -9,11 +9,11 @@
                                           
 - 🌱 Estudando, 🥷🏿Genin em C, Java e Python
 - 📫 Entre em contato no e-mail: jonathanpablotorres21@hotmail.com
-- 💭 Observador, costumo confrontar certezas e incertezas, o porque dos atos me instiga.          _[Ainda me darei o privilégio de ler e aprender mais sobre Filosofia e Psicologia]_
+- 💭 Observador, costumo confrontar certezas e incertezas, se reconhecer é um passo importante pra poder evoluir. _[Gosto dessas viagens do entendimento da mente humana, Ainda me darei o privilégio de ler e aprender mais sobre Filosofia e Psicologia]_
 
-- ⚡ Apreciador de Jogos, Histórias de fantasia, Animes e de Vôlei.        _[Pra equilibrar e me tirar um pouco de casa, haha]_
+- ⚡ Apreciador de Jogos, Histórias de fantasia, Animes, Tênis de mesa e Vôlei. _[Tem que ter pelo menos um esporte pra equilibrar e me tirar um pouco de casa, haha]_
 
-- 🎻 Músico, Violinista: Apesar de ouvir muito POP, Indie e PopRock, escuto um pouco de tudo... _[nada de esteriótipos bobos de músico erudito]_. No meu entendimento a Música eleva e engrandece momentos e sentimentos, e pra cada um deles, há um tipo de musica apropriado.
+- 🎻 Músico, Violinista: Apesar de ouvir muito POP, Indie e PopRock, escuto um pouco de tudo... _[nada de esteriótipos bobos atribuídos a músicos eruditos]. No meu entendimento a Música intensifica e eleva momentos e sentimentos, e pra cada um deles, há um tipo de musica apropriado._
 
 #
 
