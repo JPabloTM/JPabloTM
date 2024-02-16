@@ -7,13 +7,10 @@
                                     
 #   
                                           
-- 🌱 Estudando, 🥷🏿Genin em C, Java e Python
+- 🌱 Estudando, Genin em C, Java e Python
 - 📫 Entre em contato no e-mail: jonathanpablotorres21@hotmail.com
-- 💭 Observador, costumo confrontar certezas e incertezas, se reconhecer é um passo importante pra poder evoluir. _[Gosto dessas viagens do entendimento da mente humana, Ainda me darei o privilégio de ler e aprender mais sobre Filosofia e Psicologia]_
-
-- ⚡ Apreciador de Jogos, Histórias de fantasia, Animes, Tênis de mesa e Vôlei. _[Tem que ter pelo menos um esporte pra equilibrar e me tirar um pouco de casa, haha]_
-
-- 🎻 Músico, Violinista: Apesar de ouvir muito POP, Indie e PopRock, escuto um pouco de tudo... _[nada de esteriótipos bobos atribuídos a músicos eruditos]. No meu entendimento a Música intensifica e eleva momentos e sentimentos, e pra cada um deles, há um tipo de musica apropriado._
+- ⚡ Apreciador de Jogos, Histórias de fantasia, Animes, Tênis de mesa e Vôlei.
+- 🎻 Músico, Violinista
 
 #
 
@@ -35,10 +32,8 @@
   #
 
   <a href="https://www.linkedin.com/in/jonathan-pablo-32b511109/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/jonathan_pablo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonathanpablotorres12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonathanpablotorres21@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/jonathanpablotorres21" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
  </div>
 
   #
