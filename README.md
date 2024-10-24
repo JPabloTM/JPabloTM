@@ -6,7 +6,7 @@
                                     
 #   
                                           
-- 🌱 Estudando, Genin em C, Java e Python
+- 🌱 Estudando
 - 📫 Entre em contato no e-mail: jonathanpablotorres21@hotmail.com
 - ⚡ Apreciador de Jogos, Histórias de fantasia, Animes, Tênis de mesa e Vôlei.
 - 🎻 Músico, Violinista
