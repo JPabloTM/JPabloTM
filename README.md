@@ -7,7 +7,7 @@
 #   
                                           
 - 🌱 Estudando
-- 📫 Entre em contato no e-mail: jonathanpablotorres21@hotmail.com
+- 📫 Entre em contato no e-mail: jonathanpablotm@hotmail.com
 - ⚡ Apreciador de Jogos, Histórias de fantasia, Animes, Tênis de mesa e Vôlei.
 - 🎻 Músico, Violinista
 
