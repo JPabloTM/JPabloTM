@@ -1,6 +1,6 @@
 #
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=As+gaiolas+são+o+lugar;+onde+as+certezas+moram;+-+Dostoiévski+-;Olá!+👋🏿;+me+chamo+Jonathan+Pablo,;+sou+graduando+em;+Engenharia+da+Computação;++;++;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=As+gaiolas+são+o+lugar;+onde+as+certezas+moram;+-+Dostoiévski+-;Olá!+👋🏿;+me+chamo+Jonathan+Pablo;+;++;++;" />
 </h1>
 <img src="/Imagens e Gifs/Super Mario Code Gif.gif">        
                                     
